@@ -11,4 +11,4 @@
 
 ###  Plot Histograms of the Orignal Grayscale Image and the Output Segmented Image Simultaniously
 
-<img src="git1/4.png" width= "400" height="400">
+<img src="git1/4.jpg" width= "400" height="400">
